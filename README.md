@@ -12,3 +12,9 @@ We have been tasked to determine credit card risk, in general credit risk inhere
 * finally compare BalancedRandomForestClassifier and EasyEnsembleClassifier Machine Learning in hopes of reducing the bias to help predict the risk
 
 ## Results
+
+### RandomOverSampler
+** Balanced accruacy = 0.654
+** Precision score = 0.01
+** Recall Score = 0.66
+
