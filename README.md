@@ -14,7 +14,10 @@ We have been tasked to determine credit card risk, in general credit risk inhere
 ## Results
 
 ### RandomOverSampler
-** Balanced accruacy = 0.654
-** Precision score = 0.01
-** Recall Score = 0.66
+
+* Balanced accruacy = 0.654
+
+* Precision score = 0.01
+
+* Recall Score = 0.66
 
